@@ -1,4 +1,4 @@
-# HDB Resale Price Preduction using SGBoost
+# HDB Resale Price Preduction using XGBoost
 
 
 
